@@ -1,2 +1,3 @@
 nguyenduchuy
 age 20
+job programmer
