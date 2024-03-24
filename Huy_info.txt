@@ -1,6 +1,6 @@
 nguyenduchuy
 age 20
-job programer
+job programmer
 Place or work: Ninh Hoa
 company's name: HD HVS
 
